@@ -1,2 +1,0 @@
-# ShopCart
-Created with CodeSandbox
